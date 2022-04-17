@@ -1,0 +1,30 @@
+{
+  "name": "meet",
+  "version": "1.0.0",
+  "description": "this is basic tutorial example for Mean stack",
+  "main": "server.js",
+  "scripts": {
+     "dev": "nodemon server.js",
+    "start": "node server.js",
+          "start": "node your-script.js"
+
+    "test": "test"
+  },
+  "keywords": [
+    "Mean",
+    "Mongo",
+    "Express",
+    "Angular",
+    "Nodejs"
+  ],
+  "author": "Arshmeet",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "bootstrap": "^5.1.3",
+    "ejs": "^3.1.6",
+    "jquery": "^3.6.0",
+    "nodemon": "^2.0.15"
+
+  }
+}
